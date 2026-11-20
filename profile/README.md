@@ -15,3 +15,7 @@
 <p align="center">
   <sub><em>Issues and Pull Requests are welcome. Thanks!</em></sub>
 </p>
+
+<p align="center">
+  <a href="https://ifdian.net/a/U-EPTM"><em>爱发电</em></a>
+</p>
